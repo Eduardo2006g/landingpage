@@ -152,8 +152,8 @@
     border: 0.1rem solid var(--primary-color);
 }
 
-@media (max-width:1000px) {
-    .intro-conten, .grid{
+@media (max-width:1100px) {
+    .intro-content, .grid{
         grid-template-columns: 1fr;
     }
     .gallery-img {
